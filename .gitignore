@@ -1,0 +1,14 @@
+# Python & Conda Caches
+__pycache__/
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment & Configs
+*.env
+*.log
+.vscode/
+.idea/
+
+# Large Outputs
+*.png
+*.csv
